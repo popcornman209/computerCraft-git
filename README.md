@@ -2,4 +2,4 @@
 git program for computer craft
 
 usage:
-git <usr> <repo> <local path> <path in repo> <branch>
+git usr repo local_path path_in_repo branch
